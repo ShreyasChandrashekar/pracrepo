@@ -3,4 +3,4 @@
 ## This is instruction 1a
 ## This is instruction 1b
 
-added a index.html form and a login form
+added a index.html form and a login form and a registration form
